@@ -5,8 +5,10 @@ A full-stack To-Do List application built using Next.js for the frontend and Nod
 
 ## Setup Instructions
 
-### Frontend Setup
+### Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+
+
